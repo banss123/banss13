@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bans8
+- 👋 Hi, I’m bansi
 - 🌱 I’m currently learning cyber security
-- ⚡ Fun fact: people can't pronounce my name
 
 
 <!---
